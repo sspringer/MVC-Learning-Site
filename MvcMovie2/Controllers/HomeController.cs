@@ -10,7 +10,7 @@ namespace MvcMovie2.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to my NHibernate Proof of Concept!";
 
             return View();
         }
